@@ -1,4 +1,4 @@
 # PaymentPuzzle
-PaymentPuzzle is a Person-to-person payments (P2P) that uses blockchain technology which allows the users to transfer funds via internet and  mobile application.
+Payment Puzzle is a remittance service that uses Blockchain technology, which allows sending money fast, easy and with a low-cost fee.
 
 https://paymentpuzzle-api.herokuapp.com/
